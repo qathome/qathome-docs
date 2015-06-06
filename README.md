@@ -15,7 +15,8 @@ The system architecture can be found in:
 QatHome architecture_revXX.png
 
 # TUTORIAL
-Start creating your firm, putting a user in line and calling the "next". Go to www.qathome.com
+QatHome REST service allows developers to handle queues for free. Putting someone in line is as easy as a single command and calling the next in line has never been so easy.
+Start now. Go to www.qathome.com
 
 # STORYBOARD
 The storyboard for the "mobile app" and for the "web client" are shown in the respective folders
