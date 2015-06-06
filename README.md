@@ -6,7 +6,8 @@ No more waiting lines. Queue at Home.
 It is estimated that each person spends more than 100 hours per year waiting in line. This time is wasted and may be employed in more productive or pleasant activities.
 QatHome is a website that allows everyone to have a free online queue manager that will issue and serve tickets online. Users will be able to stand in-line online, finally free to do whatever they like during their waiting time. When a user needs to queue he has to open QatHome.com, find the place to go, immediately see how long the queue is and get the ticket online. The system will warn him when it is time to go. 
 
-# BETTER PROJECT DESCRIPTION
+BETTER PROJECT DESCRIPTION
+
 An introductory description can be found in:
 QatHome_introduction_text.docx
 QatHome_introduction_presentation.pptx
