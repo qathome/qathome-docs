@@ -15,8 +15,11 @@ QatHome_introduction_presentation.pptx
 The system architecture can be found in:
 QatHome architecture_revXX.png
 
+# Tutorial
+Start creating your firm, putting a user in line and calling the "next". Go to www.qathome.com
+
 ## STORYBOARD
 The storyboard for the "mobile app" and for the "web client" are shown in the respective folders
 
-## LICENSE
+# LICENSE
 This code is released under Affero GPL 3.0 license. 
