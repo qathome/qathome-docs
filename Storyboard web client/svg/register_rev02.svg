@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="register_rev02.svg"
-   inkscape:export-filename="D:\Antonello\Dropbox\Shared folders\qathome-docs\Storyboard web client\register_rev02.png"
+   inkscape:export-filename="C:\Users\percro\Dropbox\Shared folders\qathome-docs\Storyboard web client\register_rev02.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
   <defs
@@ -207,9 +207,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35000001"
-     inkscape:cx="1350.6284"
-     inkscape:cy="1012.6242"
+     inkscape:zoom="0.98994948"
+     inkscape:cx="1052.2546"
+     inkscape:cy="1677.1223"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4459,21 +4459,21 @@
            style="fill:#333333" /></flowRegion><flowPara
          id="flowPara5800">3 passi per svuotare la tua sala d'attesa</flowPara><flowPara
          id="flowPara5802" /></flowRoot>    <flowRoot
-       transform="translate(-1316.7959,1098.3843)"
+       transform="translate(-1316.7959,1073.1305)"
        xml:space="preserve"
        id="flowRoot5814"
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"><flowRegion
          id="flowRegion5816"><rect
            id="rect5818"
-           width="512.37769"
-           height="93.597145"
+           width="520.45886"
+           height="173.3992"
            x="-1.2207795"
            y="-7.1946955"
            style="font-size:17.5px;fill:#333333" /></flowRegion><flowPara
          id="flowPara5820"
          style="font-size:17.5px">2) Stampa questi <flowSpan
    style="fill:#0000ff"
-   id="flowSpan5822">biglietti</flowSpan> e tienili sulla scrivania all'accoglienza degli utenti. Vedi anche come fare i tuoi <flowSpan
+   id="flowSpan5822">biglietti</flowSpan> e tienili sulla scrivania all'accoglienza degli utenti. Dare questi biglietti ti aiuterà a spiegare come fare la coda a casa ai tuoi uteni, invitandoli a non sostare nella tua sala d'attesa. Vedi anche come fare i tuoi <flowSpan
    style="fill:#0000ff"
    id="flowSpan5958">blocchi prestampati fai da te</flowSpan> in 15 minuti</flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
@@ -4492,7 +4492,7 @@
          style="font-size:17.5px"
          id="flowPara6684">Stampa le <flowSpan
    style="fill:#0000ff"
-   id="flowSpan6686">istruzioni supersemplici</flowSpan> per gli impiegati poco familiari con la tecnologia</flowPara></flowRoot>    <rect
+   id="flowSpan6686">istruzioni supersemplici</flowSpan> per chi gestisce la coda.</flowPara></flowRoot>    <rect
        style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5834"
        width="640"
@@ -4528,7 +4528,7 @@
          id="flowPara5872"
          style="font-size:17.5px">1) Stampa e appendi questo <flowSpan
    style="fill:#0000ff"
-   id="flowSpan5874">poster</flowSpan> davanti alla porta di ingresso e dentro la sala d'attesa. Mostrare questo passo ti permetterà di eliminare la pre-coda prima dell'orario di apertura in poche settimane. Qathome raccomanda di plastificarlo e tenerlo ad altezza degli occhi.  </flowPara></flowRoot>    <rect
+   id="flowSpan5874">poster</flowSpan> davanti alla porta di ingresso e dentro la sala d'attesa. Mostrare questo poster ti permetterà di eliminare la pre-coda prima dell'orario di apertura in poche settimane. QATHOME raccomanda di plastificarlo e tenerlo ad altezza degli occhi.  </flowPara></flowRoot>    <rect
        ry="3.2547276"
        y="367.88705"
        x="-1382.0081"
@@ -4629,7 +4629,7 @@
            x="128.57143"
            y="4392.8569" /></flowRegion><flowPara
          style="text-align:center;text-anchor:middle"
-         id="flowPara5996">Ok lo ricorderò! Comincia a gestire la mia coda</flowPara></flowRoot>    <path
+         id="flowPara5996">Ok ho stampato le istruzioni! Comincia a gestire la mia coda</flowPara></flowRoot>    <path
        sodipodi:nodetypes="cc"
        style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2MendD-0)"
        d="m -1066.8358,860.57464 0,64.95058"
@@ -4757,7 +4757,8 @@
          style="text-align:center;text-anchor:middle">Compralo ora </flowPara></flowRoot>    <flowRoot
        style="font-style:normal;font-weight:normal;font-size:11.85830879px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
        id="flowRoot6307-3"
-       xml:space="preserve"><flowRegion
+       xml:space="preserve"
+       transform="translate(0,-2.857143)"><flowRegion
          id="flowRegion6309-2"><rect
            style="fill:#333333"
            y="1137.0927"
@@ -4775,12 +4776,13 @@
        width="426.91422"
        height="67.584961"
        x="-559.91187"
-       y="1134.2242"
+       y="1131.3671"
        ry="6.9034967" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6436"
-       style="font-style:normal;font-weight:normal;font-size:11.85830879px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:11.85830879px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
+       transform="translate(0,-13.214286)"><flowRegion
          id="flowRegion6438"><rect
            id="rect6440"
            width="291.69064"
@@ -4790,15 +4792,16 @@
            style="fill:#333333" /></flowRegion><flowPara
          id="flowPara6442"><flowSpan
            style="font-weight:bold"
-           id="flowSpan6519"> Kit starter coda grande 199€</flowSpan></flowPara><flowPara
-         id="flowPara6444">- 6 poster A3 a colori plastificati</flowPara><flowPara
+           id="flowSpan6519"> Kit starter coda grande 299€</flowSpan></flowPara><flowPara
+         id="flowPara6444">- 1 anno di abbonamento a QATHOME PRO</flowPara><flowPara
+         id="flowPara5528">- 6 poster A3 a colori plastificati</flowPara><flowPara
          id="flowPara6446">- 20000 biglietti in comodi blocchi</flowPara><flowPara
          id="flowPara6690">- 10 guide A4 plastificate supersemplci</flowPara><flowPara
          id="flowPara6448" /></flowRoot>    <rect
        ry="7.5703688"
-       y="1222.7689"
+       y="1209.5547"
        x="-559.86499"
-       height="74.113625"
+       height="84.113647"
        width="426.82025"
        id="rect6461"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.43236649;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -4834,12 +4837,13 @@
        width="108.99393"
        height="26.617201"
        x="-254.72136"
-       y="1147.2048"
+       y="1144.3477"
        ry="1.2540349" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6523"
-       style="font-style:normal;font-weight:normal;font-size:12.83964443px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:12.83964443px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(0,-2.857143)"><flowRegion
          id="flowRegion6525"><rect
            id="rect6527"
            width="148.93323"
