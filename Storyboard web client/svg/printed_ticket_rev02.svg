@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="450.07855mm"
+   height="285.13016mm"
+   viewBox="0 0 1594.7665 1010.3037"
+   id="svg4877"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="printed_ticket_rev02.svg"
+   inkscape:export-filename="D:\Dropbox\Shared folders\qathome-docs\Storyboard web client\printed_ticked_rev02.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
+  <defs
+     id="defs4879">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6421"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path6423" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6081"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path6083"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6059"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path6061"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5792"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="658.67983"
+     inkscape:cy="540.65134"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="20"
+     fit-margin-left="20"
+     fit-margin-right="20"
+     fit-margin-bottom="20" />
+  <metadata
+     id="metadata4882">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(10.151855,-6.4960561)">
+    <rect
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="C:\Users\percro\Dropbox\Shared folders\NoMoreQ Client\story board\flowRoot526143.png"
+       ry="3.2547276"
+       y="82.362198"
+       x="65.714287"
+       height="858.57141"
+       width="640"
+       id="rect5222"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="C:\Users\percro\Dropbox\Shared folders\NoMoreQ Client\story board\flowRoot526143.png"
+       xml:space="preserve"
+       id="flowRoot5224"
+       style="font-style:normal;font-weight:normal;font-size:68.87426758px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;"
+       transform="matrix(0.47531426,0,0,0.47531426,226.3373,607.51072)"><flowRegion
+         id="flowRegion5226"><rect
+           id="rect5229"
+           width="806.81287"
+           height="226.30116"
+           x="247.21487"
+           y="313.49927"
+           style="fill:#4d4d4d;fill-opacity:1;" /></flowRegion><flowPara
+         id="flowPara5231">C181</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="C:\Users\percro\Dropbox\Shared folders\NoMoreQ Client\story board\flowRoot526143.png"
+       transform="matrix(0.80096328,0,0,0.80096328,-23.596722,-2499.081)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="flowRoot5246"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5248"><rect
+           style="text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1"
+           y="4131.4287"
+           x="201.42857"
+           height="170"
+           width="615.71429"
+           id="rect5250" /></flowRegion><flowPara
+         style="font-weight:normal;text-align:center;text-anchor:middle;fill:#4d4d4d;fill-opacity:1"
+         id="flowPara5252">12 persone prima di te</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="C:\Users\percro\Dropbox\Shared folders\NoMoreQ Client\story board\flowRoot526143.png"
+       xml:space="preserve"
+       id="flowRoot5254"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:110.00000238%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none"
+       transform="matrix(1.0146893,0,0,1.0146893,-88.974528,-4072.754)"><flowRegion
+         id="flowRegion5256"><rect
+           id="rect5258"
+           width="526.14825"
+           height="547.79224"
+           x="201.42857"
+           y="4131.4287"
+           style="line-height:110.00000238%;text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1" /></flowRegion><flowPara
+         style="font-weight:normal;font-size:67.89046478px;line-height:110.00000238%;text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1"
+         id="flowPara5262">LA PROSSIMA VOLTA PUOI PRENDERE QUESTO BIGLIETTO DAL TUO SMARTPHONE</flowPara></flowRoot>    <flowRoot
+       inkscape:export-ydpi="100"
+       inkscape:export-xdpi="100"
+       inkscape:export-filename="C:\Users\percro\Dropbox\Shared folders\NoMoreQ Client\story board\flowRoot526143.png"
+       transform="matrix(0.70845088,0,0,0.70845088,-57.45497,-2278.4677)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#aa0000;fill-opacity:1;stroke:none"
+       id="flowRoot5264"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5266"><rect
+           style="text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1"
+           y="4131.4287"
+           x="201.42857"
+           height="533.50842"
+           width="849.6554"
+           id="rect5268" /></flowRegion><flowPara
+         id="flowPara5270"
+         style="font-weight:normal;font-size:47.60337067px;text-align:center;text-anchor:middle;fill:#aa0000;fill-opacity:1">qathome.com\unipi-matricolandosi</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.3076937,0,0,0.3076937,154.9392,-370.76793)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="flowRoot5274"
+       xml:space="preserve"
+       inkscape:export-filename="C:\Users\percro\Dropbox\Shared folders\NoMoreQ Client\story board\flowRoot526143.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"><flowRegion
+         id="flowRegion5276"><rect
+           y="4131.4287"
+           x="201.42857"
+           height="196.71822"
+           width="1094.9283"
+           id="rect5278"
+           style="text-align:center;text-anchor:middle;fill:#4d4d4d" /></flowRegion><flowPara
+         id="flowPara4943">Codice di controllo: 20:32 14 maggio 2015 </flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="984.48584"
+       y="687.55865"
+       id="text4945"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4947"
+         x="984.48584"
+         y="687.55865">{firm.url_name}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:0.99215686;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="985.81006"
+       y="847.75592"
+       id="text4945-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4947-1"
+         x="985.81006"
+         y="847.75592">{ticket.before_you}</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4967"
+       y="926.09967"
+       x="987.59613"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="926.09967"
+         x="987.59613"
+         id="tspan4969"
+         sodipodi:role="line">{ticket.datetime_created}</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6081)"
+       d="m 971.44433,678.07649 -235.71429,0"
+       id="path4973"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4975"
+       d="m 971.44433,833.79077 -235.71429,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6059)"
+       d="m 971.44433,913.79077 -235.71429,0"
+       id="path4977"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6361"
+       y="799.18445"
+       x="985.81006"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:0.99215686;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="799.18445"
+         x="985.81006"
+         id="tspan6363"
+         sodipodi:role="line">{ticket.user_code}</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6421)"
+       d="m 971.44433,785.21934 -235.71429,0"
+       id="path6365"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
