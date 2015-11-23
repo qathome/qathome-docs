@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="QatHome architecture_rev01.svg">
+   sodipodi:docname="QatHome architecture_rev01.svg"
+   inkscape:export-filename="D:\Dropbox\Shared folders\qathome-docs\QatHome architecture_rev01.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <linearGradient
@@ -337,14 +340,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="531.65911"
-     inkscape:cy="322.36915"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="387.38891"
+     inkscape:cy="997.54931"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="973"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -1818,7 +1821,7 @@
          id="flowPara5210-5"
          style="font-size:30px;fill:#000000;fill-opacity:1">QatHome Cloud SERVER</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.68658436,0,0,0.68658436,318.24572,-1966.8315)"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4184"
        xml:space="preserve"><flowRegion
          id="flowRegion4186"><rect
@@ -1829,7 +1832,7 @@
            width="342.05765"
            id="rect4188" /></flowRegion><flowPara
          style="font-size:30px;fill:#000000;fill-opacity:1"
-         id="flowPara4190">EMPOYEE: at front desk, or somewhere else</flowPara></flowRoot>    <switch
+         id="flowPara4190">EMPLOYEE: at front desk, or somewhere else</flowPara></flowRoot>    <switch
        transform="matrix(2.5053879,0,0,2.5053879,1277.5794,64.255968)"
        id="switch4192">
       <foreignObject

@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="731.15826mm"
+   height="816.94342mm"
+   viewBox="0 0 2590.7183 2894.6814"
+   id="svg12690"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="help_rev02.svg"
+   inkscape:export-filename="F:\Antonello\Dropbox\Shared folders\qathome-docs\Storyboard web client\help_rev01.png"
+   inkscape:export-xdpi="99.789101"
+   inkscape:export-ydpi="99.789101">
+  <defs
+     id="defs12692">
+    <marker
+       inkscape:stockid="Arrow2MendD"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2MendD"
+       style="overflow:visible"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6657"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2MendD"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2MendD-1"
+       style="overflow:visible"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6657-60"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2MendD"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2MendD-6"
+       style="overflow:visible"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6657-3"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2MendD"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2MendD-0"
+       style="overflow:visible"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6657-6"
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1723.261"
+     inkscape:cy="1493.0037"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="100"
+     fit-margin-left="100"
+     fit-margin-right="100"
+     fit-margin-bottom="100"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata12695">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1418.2162,1340.6928)">
+    <rect
+       ry="11.1894"
+       y="-976.36206"
+       x="-1053.8855"
+       height="2166.02"
+       width="1862.0568"
+       id="rect5697"
+       style="opacity:0.42920353;fill:none;stroke:#009c9f;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(-2818.4583,-8197.8772)"
+       style="font-style:normal;font-weight:normal;font-size:112.20185852px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#00a7ff;fill-opacity:1;stroke:none"
+       id="flowRoot5699"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5701"><rect
+           style="fill:#00a7ff;fill-opacity:1"
+           y="9229.4219"
+           x="3377.2166"
+           height="476.85791"
+           width="1727.1072"
+           id="rect5703" /></flowRegion><flowPara
+         style="font-size:84.15139771px;fill:#00a7ff;fill-opacity:1"
+         id="flowPara5705">Help</flowPara></flowRoot>    <flowRoot
+       transform="translate(-731.08142,-172.8506)"
+       xml:space="preserve"
+       id="flowRoot5794"
+       style="font-style:normal;font-weight:normal;font-size:23.8138485px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion5796"><rect
+           id="rect5798"
+           width="553.02887"
+           height="147.02139"
+           x="-1.2207795"
+           y="-7.1946955"
+           style="fill:#333333" /></flowRegion><flowPara
+         id="flowPara5800">3 passi per svuotare la tua sala d'attesa</flowPara><flowPara
+         id="flowPara5802" /></flowRoot>    <flowRoot
+       transform="translate(-731.08142,-134.8956)"
+       xml:space="preserve"
+       id="flowRoot5814"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion5816"><rect
+           id="rect5818"
+           width="520.45886"
+           height="173.3992"
+           x="-1.2207795"
+           y="-7.1946955"
+           style="font-size:17.5px;fill:#333333" /></flowRegion><flowPara
+         id="flowPara5820"
+         style="font-size:17.5px">2) Stampa questi <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan5822">biglietti</flowSpan> e tienili sulla scrivania all'accoglienza degli utenti. Dare questi biglietti ti aiuterà a spiegare come fare la coda a casa ai tuoi uteni, invitandoli a non sostare nella tua sala d'attesa. Vedi anche come fare i tuoi <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan5958">blocchi prestampati fai da te</flowSpan> in 15 minuti</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
+       id="flowRoot5824"
+       xml:space="preserve"
+       transform="translate(-731.08142,462.88611)"><flowRegion
+         id="flowRegion5826"><rect
+           style="font-size:17.5px;fill:#333333"
+           y="-7.1946955"
+           x="-1.2207795"
+           height="132.15625"
+           width="510.53073"
+           id="rect5828" /></flowRegion><flowPara
+         style="font-size:17.5px"
+         id="flowPara5830">3) Ricorda bene: prima di chiamare un numero clicca su &quot;chiama il prossimo&quot;, prima di dare un biglietto clicca su &quot;aggiungi un utente in coda&quot;.</flowPara><flowPara
+         style="font-size:17.5px"
+         id="flowPara6684">Stampa le <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan6686">istruzioni supersemplici</flowSpan> per chi gestisce la coda.</flowPara></flowRoot>    <rect
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5834"
+       width="640"
+       height="480"
+       x="-796.29358"
+       y="-257.28177"
+       ry="3.2547276" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:23.8138485px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
+       id="flowRoot5856"
+       xml:space="preserve"
+       transform="translate(-731.08142,-755.7076)"><flowRegion
+         id="flowRegion5858"><rect
+           style="fill:#333333"
+           y="-7.1946955"
+           x="-1.2207795"
+           height="147.02139"
+           width="553.02887"
+           id="rect5860" /></flowRegion><flowPara
+         id="flowPara5862">3 passi per svuotare la tua sala d'attesa</flowPara><flowPara
+         id="flowPara5864" /></flowRoot>    <flowRoot
+       transform="translate(-731.08142,-709.6417)"
+       xml:space="preserve"
+       id="flowRoot5866"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion5868"><rect
+           id="rect5870"
+           width="532.37769"
+           height="155.02573"
+           x="-1.2207795"
+           y="-7.1946955"
+           style="font-size:17.5px;fill:#333333" /></flowRegion><flowPara
+         id="flowPara5872"
+         style="font-size:17.5px">1) Stampa e appendi questo <flowSpan
+   style="fill:#0000ff"
+   id="flowSpan5874">poster</flowSpan> davanti alla porta di ingresso e dentro la sala d'attesa. Mostrare questo poster ti permetterà di eliminare la pre-coda prima dell'orario di apertura in poche settimane. QATHOME raccomanda di plastificarlo e tenerlo ad altezza degli occhi.  </flowPara></flowRoot>    <rect
+       ry="3.2547276"
+       y="-840.13867"
+       x="-796.29358"
+       height="480"
+       width="640"
+       id="rect5876"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:2.39456677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5878"
+       width="509.92136"
+       height="70.126595"
+       x="-731.08875"
+       y="-581.85205"
+       ry="3.2180085" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5880"
+       style="font-style:normal;font-weight:normal;font-size:25.78456497px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-2580.0002,-3228.3311)"><flowRegion
+         id="flowRegion5882"><rect
+           id="rect5884"
+           width="481.92523"
+           height="68.412521"
+           x="1862.1477"
+           y="2647.1313" /></flowRegion><flowPara
+         style="text-align:center;text-anchor:middle"
+         id="flowPara5886">Ok, ho stampato e appeso i poster Prossimo step </flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:25.78456497px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5888"
+       xml:space="preserve"
+       transform="translate(614.89378,-1236.3103)"><flowRegion
+         id="flowRegion5890"><rect
+           y="728.11981"
+           x="-1240.603"
+           height="65.382027"
+           width="299.08762"
+           id="rect5892" /></flowRegion><flowPara
+         id="flowPara5894"
+         style="text-align:center;text-anchor:middle">oppure</flowPara></flowRoot>    <rect
+       ry="3.7799926"
+       y="-464.02151"
+       x="-673.33704"
+       height="82.373322"
+       width="394.41806"
+       id="rect5896"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:3.66851449;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:25.78456497px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5898"
+       xml:space="preserve"
+       transform="translate(-2580.0002,-3228.3311)"><flowRegion
+         id="flowRegion5900"><rect
+           y="2774.4265"
+           x="1953.6671"
+           height="65.382027"
+           width="299.08762"
+           id="rect5902" /></flowRegion><flowPara
+         id="flowPara5904"
+         style="text-align:center;text-anchor:middle">compra il kit starter (a partire da 49 €)</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:23.8138485px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none"
+       id="flowRoot5916"
+       xml:space="preserve"
+       transform="translate(-731.08142,414.42441)"><flowRegion
+         id="flowRegion5918"><rect
+           style="fill:#333333"
+           y="-7.1946955"
+           x="-1.2207795"
+           height="147.02139"
+           width="553.02887"
+           id="rect5920" /></flowRegion><flowPara
+         id="flowPara5922">3 passi per svuotare la tua sala d'attesa</flowPara><flowPara
+         id="flowPara5924" /></flowRoot>    <rect
+       ry="3.2547276"
+       y="329.99313"
+       x="-796.29358"
+       height="480"
+       width="640"
+       id="rect5936"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:3.51025105;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5988"
+       width="331.71924"
+       height="139.172"
+       x="-636.72266"
+       y="620.4209"
+       ry="4.1150308" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5990"
+       style="font-style:normal;font-weight:normal;font-size:25.78456497px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-2580.0002,-3228.3311)"><flowRegion
+         id="flowRegion5992"><rect
+           id="rect5994"
+           width="299.08762"
+           height="146.19426"
+           x="1961.9788"
+           y="3862.1523" /></flowRegion><flowPara
+         style="text-align:center;text-anchor:middle"
+         id="flowPara5996">Ok ho stampato le istruzioni! Comincia a gestire la mia coda</flowPara></flowRoot>    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2MendD-0)"
+       d="m -481.12136,-347.4512 0,64.9506"
+       id="path10656-0"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2MendD-6)"
+       d="m -486.83566,232.54871 0,64.9506"
+       id="path10656-8"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2MendD-1)"
+       d="m -472.54996,786.83441 0,64.9506"
+       id="path10656-9"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       transform="translate(-4105.908,-378.8034)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none"
+       id="flowRoot5722-9-5"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5724-8-8"><rect
+           style="fill:#ff0000"
+           y="1246.2732"
+           x="3539.5745"
+           height="121.06681"
+           width="392.17697"
+           id="rect5726-6-1" /></flowRegion><flowPara
+         style="font-weight:bold"
+         id="flowPara6439">Sportelli</flowPara></flowRoot>    <rect
+       ry="3.2180085"
+       y="-19.573761"
+       x="-731.08875"
+       height="70.126595"
+       width="509.92136"
+       id="rect6279"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:2.39456677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:25.78456497px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot6281"
+       xml:space="preserve"
+       transform="translate(-2580.0002,-3228.3311)"><flowRegion
+         id="flowRegion6283"><rect
+           y="3209.4099"
+           x="1862.1477"
+           height="68.412521"
+           width="481.92523"
+           id="rect6285" /></flowRegion><flowPara
+         id="flowPara6287"
+         style="text-align:center;text-anchor:middle">Ok, ho stampato i blocchetti Prossimo step </flowPara></flowRoot>    <flowRoot
+       transform="translate(614.89378,-674.0317)"
+       xml:space="preserve"
+       id="flowRoot6289"
+       style="font-style:normal;font-weight:normal;font-size:25.78456497px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion6291"><rect
+           id="rect6293"
+           width="299.08762"
+           height="65.382027"
+           x="-1240.603"
+           y="728.11981" /></flowRegion><flowPara
+         style="text-align:center;text-anchor:middle"
+         id="flowPara6295">oppure</flowPara></flowRoot>    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:3.66851449;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6297"
+       width="394.41806"
+       height="82.373322"
+       x="-673.33704"
+       y="98.256805"
+       ry="3.7799926" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6299"
+       style="font-style:normal;font-weight:normal;font-size:25.78456497px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-2580.0002,-3228.3311)"><flowRegion
+         id="flowRegion6301"><rect
+           id="rect6303"
+           width="299.08762"
+           height="65.382027"
+           x="1953.6671"
+           y="3336.7051" /></flowRegion><flowPara
+         style="text-align:center;text-anchor:middle"
+         id="flowPara6305">compra il kit starter (a partire da 49 €)</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2MendD)"
+       d="m -108.98116,-422.4516 451.42854,0 0,141.4285"
+       id="path6680"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       ry="3.2547278"
+       y="-929.43555"
+       x="-1005.3593"
+       height="117.14284"
+       width="162.85716"
+       id="rect6502"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(2.4214,0,0,2.4697158,-2924.0689,-3043.7913)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot6504"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6506"><rect
+           y="852.90131"
+           x="801.42859"
+           height="318.57144"
+           width="345.71429"
+           id="rect6508" /></flowRegion><flowPara
+         id="flowPara6510"
+         style="font-weight:normal">R6</flowPara></flowRoot>    <rect
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6512"
+       width="162.85716"
+       height="117.14284"
+       x="-1005.3593"
+       y="-246.57864"
+       ry="3.2547278" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6514"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(2.4214,0,0,2.4697158,-2924.0689,-2360.9342)"><flowRegion
+         id="flowRegion6516"><rect
+           id="rect6518"
+           width="345.71429"
+           height="318.57144"
+           x="801.42859"
+           y="852.90131" /></flowRegion><flowPara
+         style="font-weight:normal"
+         id="flowPara6520">R7</flowPara></flowRoot>    <rect
+       ry="3.2547278"
+       y="353.42136"
+       x="-1005.3593"
+       height="117.14284"
+       width="162.85716"
+       id="rect6522"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(2.4214,0,0,2.4697158,-2924.0689,-1760.9341)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot6524"
+       xml:space="preserve"><flowRegion
+         id="flowRegion6526"><rect
+           y="852.90131"
+           x="801.42859"
+           height="318.57144"
+           width="345.71429"
+           id="rect6528" /></flowRegion><flowPara
+         id="flowPara6530"
+         style="font-weight:normal">R8</flowPara></flowRoot>  </g>
+</svg>
