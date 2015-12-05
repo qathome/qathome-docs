@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="employee_rev04.svg"
-   inkscape:export-filename="D:\Dropbox\Shared folders\qathome-docs\Storyboard web client\employee_rev04.png"
+   inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\employee_rev04.png"
    inkscape:export-xdpi="120"
    inkscape:export-ydpi="120">
   <defs
@@ -207,9 +207,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12374369"
-     inkscape:cx="2726.0578"
-     inkscape:cy="2155.7756"
+     inkscape:zoom="1.4"
+     inkscape:cx="3155.3397"
+     inkscape:cy="1194.7879"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -217,8 +217,8 @@
      fit-margin-left="20"
      fit-margin-right="20"
      fit-margin-bottom="20"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -231,7 +231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2989,7 +2989,7 @@
        ry="3.2547276"
        y="818.53009"
        x="1687.8361"
-       height="1630.6787"
+       height="1744.9644"
        width="640.00012"
        id="rect5234"
        style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -3165,7 +3165,7 @@
          y="984.1806"
          x="2039.6194"
          sodipodi:role="line"
-         id="tspan5260-5-54">If (firm.open_online == true) </tspan><tspan
+         id="tspan5260-5-54">show If (firm.open_online == true) </tspan><tspan
          y="994.17316"
          x="2039.6194"
          sodipodi:role="line"
@@ -3193,7 +3193,7 @@
            width="119.5213"
            id="rect4336" /></flowRegion><flowPara
          id="flowPara4338">queue 2</flowPara></flowRoot>    <flowRoot
-       transform="translate(1840.4391,980.22419)"
+       transform="translate(1822.7614,980.22419)"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4364"
        xml:space="preserve"><flowRegion
@@ -3252,12 +3252,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text5258-6-3-6"
-       y="1003.8378"
-       x="2041.0017"
+       y="1020.2664"
+       x="2003.6508"
        style="font-style:normal;font-weight:normal;font-size:7.99405479px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="1003.8378"
-         x="2041.0017"
+         y="1020.2664"
+         x="2003.6508"
          sodipodi:role="line"
          id="tspan5260-5-54-3">open_online @ queue</tspan></text>
     <text
@@ -3274,7 +3274,7 @@
          y="930.29816"
          x="1736.8112"
          sodipodi:role="line"
-         id="tspan5349">Adesso i tuoi utenti possono prendere un biglietto su qathome.com/dottore secondo il calendario</tspan></text>
+         id="tspan5349">Adesso i tuoi utenti possono prendere un biglietto su qathome.com/dottore secondo il calendario emissione online</tspan></text>
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.96079499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5424"
@@ -3720,7 +3720,7 @@
        ry="3.2970972"
        y="2111.8269"
        x="1705.9366"
-       height="297.40817"
+       height="429.55099"
        width="603.83582"
        id="rect6175"
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.41182125;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -3736,18 +3736,18 @@
            width="341.21307"
            id="rect6181" /></flowRegion><flowPara
          id="flowPara6183">Avanzate</flowPara></flowRoot>    <rect
-       style="fill:#aaeeff;stroke:#000000"
+       style="fill:#aaeeff;stroke:#000000;stroke-width:0.67062485"
        id="rect4249-87"
-       width="63.57143"
-       height="20"
-       x="1757.7272"
-       y="2257.0657"
-       ry="1.23062" />
+       width="42.632584"
+       height="13.412498"
+       x="1845.0358"
+       y="2256.2039"
+       ry="0.82528442" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot5457-0-9"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(1.5311832,0,0,1.5311832,1766.7706,2262.3042)"><flowRegion
+       transform="matrix(1.0268495,0,0,1.0268495,1851.1006,2259.7172)"><flowRegion
          id="flowRegion5459-6-2"><rect
            id="rect5461-0-4"
            width="119.5213"
@@ -3852,11 +3852,11 @@
          id="tspan6516"
          sodipodi:role="line"
          x="1736.8112"
-         y="1614.1567">Adesso non si accettano ulteriori prenotazioni / Adesso i tuoi utenti possono prenotarsi su </tspan><tspan
+         y="1614.1567">Adesso non si accettano prenotazioni / Adesso i tuoi utenti possono prenotarsi su </tspan><tspan
          sodipodi:role="line"
          x="1736.8112"
          y="1625.7065"
-         id="tspan6612">qathome.com/dottore secondo il calendario</tspan></text>
+         id="tspan6612">qathome.com/dottore secondo il calendario prenotazioni</tspan></text>
     <flowRoot
        style="font-style:normal;font-weight:normal;font-size:15.63461399px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6518"
@@ -4093,29 +4093,28 @@
          x="1736.8112"
          y="2055.1682">Controlla i tuoi sportelli alla pagina sportelli (link)</tspan></text>
     <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:17.26011658px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:12.47678185px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot6837"
-       xml:space="preserve"
-       transform="matrix(0.72286774,0,0,0.72286774,430.05361,1104.5387)"><flowRegion
+       xml:space="preserve"><flowRegion
          id="flowRegion6839"><rect
-           y="1639.6332"
-           x="1807.1782"
-           height="73.355492"
-           width="265.6825"
+           y="2344.0623"
+           x="1736.4044"
+           height="41.597729"
+           width="258.48196"
            id="rect6841" /></flowRegion><flowPara
-         id="flowPara6843">Limite automatico</flowPara></flowRoot>    <text
+         id="flowPara6843">Limite automatico emissione online</flowPara></flowRoot>    <text
        sodipodi:linespacing="100%"
        id="text6845"
-       y="2318.9954"
+       y="2373.281"
        x="1746.3826"
        style="font-style:normal;font-weight:normal;font-size:9.23984432px;line-height:100%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="2318.9954"
+         y="2373.281"
          x="1746.3826"
          sodipodi:role="line"
          id="tspan6847"
-         style="line-height:100%">Puoi scegliere un limite giornaliero dopo il quale l'emissione online e da totem sarà bloccata, </tspan><tspan
-         y="2328.2351"
+         style="line-height:100%">Puoi scegliere un numero di biglietti massimo giornaliero dopo il quale l'emissione online sarà bloccata e </tspan><tspan
+         y="2382.5208"
          x="1746.3826"
          sodipodi:role="line"
          id="tspan6849"
@@ -4124,15 +4123,15 @@
        xml:space="preserve"
        id="flowRoot5457-3-2"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(1752.3063,2363.1406)"><flowRegion
+       transform="translate(1752.3063,2433.4574)"><flowRegion
          id="flowRegion5459-8-1"><rect
            id="rect5461-9-7"
            width="119.5213"
            height="33.00008"
            x="-0.75797081"
            y="-2.3836417" /></flowRegion><flowPara
-         id="flowPara5463-6-9">queue 1</flowPara></flowRoot>    <flowRoot
-       transform="translate(1752.3063,2378.9263)"
+         id="flowPara5463-6-9">A Dott. Verdi</flowPara></flowRoot>    <flowRoot
+       transform="translate(1752.3063,2453.1717)"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4332-5"
        xml:space="preserve"><flowRegion
@@ -4142,37 +4141,26 @@
            height="33.00008"
            width="119.5213"
            id="rect4336-4" /></flowRegion><flowPara
-         id="flowPara4338-5">queue 2</flowPara></flowRoot>    <flowRoot
-       transform="translate(1825.7647,2346.3565)"
-       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot4364-3"
-       xml:space="preserve"><flowRegion
-         id="flowRegion4366-7"><rect
-           y="-2.3836417"
-           x="-0.75797081"
-           height="33.00008"
-           width="119.5213"
-           id="rect4368-9" /></flowRegion><flowPara
-         id="flowPara4370-0">Max biglietti al giorno</flowPara></flowRoot>    <path
+         id="flowPara4338-5">B Dott. Rossi</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1993.1922,2356.6351 -244.6428,0"
+       d="m 1993.1922,2425.5233 -244.6428,0"
        id="path4429-4"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path4431-0"
-       d="m 1993.1922,2374.8178 -244.6428,0"
+       d="m 1993.1922,2446.206 -244.6428,0"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.96079499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6622-2"
        width="42.015526"
        height="14.937988"
-       x="1823.8274"
-       y="2358.261"
+       x="1845.5457"
+       y="2428.5779"
        ry="1.5258418" />
     <flowRoot
-       transform="matrix(0.49663681,0,0,0.49663681,100.26388,3690.1758)"
+       transform="matrix(0.49663681,0,0,0.49663681,121.98216,3760.4926)"
        xml:space="preserve"
        id="flowRoot6624-2"
        style="font-style:normal;font-weight:normal;font-size:19.2105732px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"><flowRegion
@@ -4185,8 +4173,8 @@
            y="-2680.3984" /></flowRegion><flowPara
          id="flowPara6630-4">30</flowPara></flowRoot>    <rect
        ry="1.5258418"
-       y="2376.4751"
-       x="1823.8274"
+       y="2449.6489"
+       x="1845.5457"
        height="14.937988"
        width="42.015526"
        id="rect6974"
@@ -4195,7 +4183,7 @@
        style="font-style:normal;font-weight:normal;font-size:9.54067802px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
        id="flowRoot6976"
        xml:space="preserve"
-       transform="translate(-71.240775,645.12493)"><flowRegion
+       transform="translate(-49.522493,718.29897)"><flowRegion
          id="flowRegion6978"><rect
            y="1732.0804"
            x="1899.2645"
@@ -4309,7 +4297,7 @@
          id="tspan7034"
          sodipodi:role="line"
          x="2039.6882"
-         y="1240.9176">If (firm.open_printer == true) </tspan><tspan
+         y="1240.9176">show If (firm.open_printer == true) </tspan><tspan
          sodipodi:role="line"
          x="2039.6882"
          y="1251.0424"
@@ -4337,7 +4325,7 @@
            x="-0.75797081"
            y="-2.3836417" /></flowRegion><flowPara
          id="flowPara7050">queue 2</flowPara></flowRoot>    <flowRoot
-       transform="translate(1822.9391,1236.8804)"
+       transform="translate(1805.2614,1236.8804)"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot7052"
        xml:space="preserve"><flowRegion
@@ -4398,12 +4386,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text7116"
-       y="1270.9958"
-       x="2041.0889"
+       y="1275.5415"
+       x="2012.2996"
        style="font-style:normal;font-weight:normal;font-size:8.09980679px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="1270.9958"
-         x="2041.0889"
+         y="1275.5415"
+         x="2012.2996"
          sodipodi:role="line"
          id="tspan7118">open_printer @ queue</tspan></text>
     <flowRoot
@@ -4484,11 +4472,11 @@
          y="1177.4047"
          x="1736.8112"
          sodipodi:role="line"
-         id="tspan7166">Adesso il totem non può stampare i biglietti / Adesso il totem può stampare i biglietti / </tspan><tspan
+         id="tspan7166">Adesso il totem 1 non può stampare i biglietti / Adesso il totem 1 può stampare i biglietti / </tspan><tspan
          id="tspan7168"
          y="1188.9545"
          x="1736.8112"
-         sodipodi:role="line">Adesso il totem può stampare i biglietti secondo il calendario</tspan></text>
+         sodipodi:role="line">Adesso il totem 1 può stampare i biglietti secondo il calendario</tspan></text>
     <rect
        ry="1.5258418"
        y="1361.2699"
@@ -4690,7 +4678,7 @@
            y="-2.3836417" /></flowRegion><flowPara
          id="flowPara7585-9-7">ABC1</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2290.2021,2286.2853 -561.8307,0"
+       d="m 2290.2021,2340.571 -561.8307,0"
        id="path4509"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -4749,5 +4737,237 @@
          x="1755.6501"
          sodipodi:role="line"
          id="tspan4592" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.47226381px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       x="1982.745"
+       y="2418.1499"
+       id="text6988-4"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan6990-8"
+         sodipodi:role="line"
+         x="1982.745"
+         y="2418.1499">GET algorithm_params @ FIRM -&gt; aggiungi e PATCH &quot;maxday_nonowner_tickets=200&quot;</tspan></text>
+    <flowRoot
+       transform="translate(1752.3063,2412.7432)"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5412"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5414"><rect
+           y="-2.3836417"
+           x="-0.75797081"
+           height="33.00008"
+           width="119.5213"
+           id="rect5416" /></flowRegion><flowPara
+         id="flowPara5418">Tutte le code</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5430"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1847.483,2391.6734)"><flowRegion
+         id="flowRegion5432"><rect
+           id="rect5435"
+           width="119.5213"
+           height="33.00008"
+           x="-0.75797081"
+           y="-2.3836417" /></flowRegion><flowPara
+         id="flowPara5437">Max biglietti al giorno </flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path5439"
+       d="m 1993.1922,2406.2377 -244.6428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="1.5258418"
+       y="2407.8635"
+       x="1845.5457"
+       height="14.937988"
+       width="42.015526"
+       id="rect5443"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.96079499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:19.2105732px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       id="flowRoot5445"
+       xml:space="preserve"
+       transform="matrix(0.49663681,0,0,0.49663681,121.98216,3739.7784)"><flowRegion
+         id="flowRegion5447"><rect
+           y="-2680.3984"
+           x="3478.9204"
+           height="80.930733"
+           width="407.13412"
+           id="rect5449"
+           style="fill:#808080" /></flowRegion><flowPara
+         id="flowPara5451">200</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text5472"
+       y="2437.1501"
+       x="1982.745"
+       style="font-style:normal;font-weight:normal;font-size:6.47226381px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2437.1501"
+         x="1982.745"
+         sodipodi:role="line"
+         id="tspan5474">GET algorithm_params @ QUEUE -&gt; aggiungi e PATCH &quot;maxday_nonowner_tickets=200&quot;</tspan></text>
+    <flowRoot
+       transform="translate(1752.3063,2280.6002)"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5476"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5478"><rect
+           y="-2.3836417"
+           x="-0.75797081"
+           height="33.00008"
+           width="119.5213"
+           id="rect5480" /></flowRegion><flowPara
+         id="flowPara5483">A Dott. Verdi</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5485"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1752.3063,2300.3145)"><flowRegion
+         id="flowRegion5487"><rect
+           id="rect5489"
+           width="119.5213"
+           height="33.00008"
+           x="-0.75797081"
+           y="-2.3836417" /></flowRegion><flowPara
+         id="flowPara5491">B Dott. Rossi</flowPara></flowRoot>    <path
+       inkscape:connector-curvature="0"
+       id="path5493"
+       d="m 1993.1922,2272.6661 -244.6428,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1993.1922,2293.3488 -244.6428,0"
+       id="path5495"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5517"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1752.3063,2259.886)"><flowRegion
+         id="flowRegion5519"><rect
+           id="rect5521"
+           width="119.5213"
+           height="33.00008"
+           x="-0.75797081"
+           y="-2.3836417" /></flowRegion><flowPara
+         id="flowPara5523">Tutte le code</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1993.1922,2253.3805 -244.6428,0"
+       id="path5525"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="0.82528442"
+       y="2277.2754"
+       x="1845.0358"
+       height="13.412498"
+       width="42.632584"
+       id="rect5537"
+       style="fill:#aaeeff;stroke:#000000;stroke-width:0.67062485" />
+    <flowRoot
+       transform="matrix(1.0268495,0,0,1.0268495,1851.1006,2280.7886)"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5539"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5541"><rect
+           y="-2.3836417"
+           x="-0.75797081"
+           height="33.00008"
+           width="119.5213"
+           id="rect5543" /></flowRegion><flowPara
+         id="flowPara5545">RESET</flowPara></flowRoot>    <rect
+       style="fill:#aaeeff;stroke:#000000;stroke-width:0.67062485"
+       id="rect5547"
+       width="42.632584"
+       height="13.412498"
+       x="1845.0358"
+       y="2296.2039"
+       ry="0.82528442" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5549"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.0268495,0,0,1.0268495,1851.1006,2299.7172)"><flowRegion
+         id="flowRegion5551"><rect
+           id="rect5553"
+           width="119.5213"
+           height="33.00008"
+           x="-0.75797081"
+           y="-2.3836417" /></flowRegion><flowPara
+         id="flowPara5555">RESET</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text5258-6-3-0"
+       y="2437.4006"
+       x="1893.2634"
+       style="font-style:normal;font-weight:normal;font-size:7.99405479px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2437.4006"
+         x="1893.2634"
+         sodipodi:role="line"
+         id="tspan5739-0">show IF queues &gt; 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.99405479px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       x="1893.2634"
+       y="2285.8777"
+       id="text5591"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5593"
+         sodipodi:role="line"
+         x="1893.2634"
+         y="2285.8777">show IF queues &gt; 1</tspan></text>
+    <flowRoot
+       transform="translate(1916.2664,997.00829)"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5595"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5597"><rect
+           y="-2.3836417"
+           x="-0.75797081"
+           height="33.00008"
+           width="119.5213"
+           id="rect5599" /></flowRegion><flowPara
+         id="flowPara5601">Attivata</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5603"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1916.2664,1013.0543)"><flowRegion
+         id="flowRegion5605"><rect
+           id="rect5607"
+           width="119.5213"
+           height="33.00008"
+           x="-0.75797081"
+           y="-2.3836417" /></flowRegion><flowPara
+         id="flowPara5609">Secondo calendario</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5659"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(1916.2664,1253.082)"><flowRegion
+         id="flowRegion5661"><rect
+           id="rect5663"
+           width="119.5213"
+           height="33.00008"
+           x="-0.75797081"
+           y="-2.3836417" /></flowRegion><flowPara
+         id="flowPara5665">Attivata</flowPara></flowRoot>    <flowRoot
+       transform="translate(1916.2664,1269.128)"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot5667"
+       xml:space="preserve"><flowRegion
+         id="flowRegion5669"><rect
+           y="-2.3836417"
+           x="-0.75797081"
+           height="33.00008"
+           width="119.5213"
+           id="rect5671" /></flowRegion><flowPara
+         id="flowPara5673">Secondo calendario</flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text5472-6"
+       y="2207.6689"
+       x="1839.9777"
+       style="font-style:normal;font-weight:normal;font-size:6.47226381px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="2207.6689"
+         x="1839.9777"
+         sodipodi:role="line"
+         id="tspan5474-5">GET algorithm_params @ FIRM -&gt; aggiungi e PATCH &quot;allow_anonymoous=false&quot;</tspan></text>
   </g>
 </svg>
