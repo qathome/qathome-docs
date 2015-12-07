@@ -207,9 +207,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="3151.4654"
-     inkscape:cy="2005.9493"
+     inkscape:zoom="1.4"
+     inkscape:cx="2311.6052"
+     inkscape:cy="1724.7475"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -217,8 +217,8 @@
      fit-margin-left="20"
      fit-margin-right="20"
      fit-margin-bottom="20"
-     inkscape:window-width="1680"
-     inkscape:window-height="973"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -231,7 +231,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5085,7 +5085,7 @@
            height="33.00008"
            width="119.5213"
            id="rect7651" /></flowRegion><flowPara
-         id="flowPara7653">Secondo calendario</flowPara></flowRoot>    <flowRoot
+         id="flowPara7653">Secondo il calendario</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.83984016,0,0,0.83984016,2187.9579,1248.1017)"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot7655"
@@ -5224,7 +5224,7 @@
          id="tspan8032"
          sodipodi:role="line"
          x="1246.4709"
-         y="317.25568">GRIGIO IF (firm.open_online == true) </tspan></text>
+         y="317.25568">GRIGIO IF (firm.open_online == false) </tspan></text>
     <flowRoot
        transform="translate(861.09475,188.74047)"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -5289,13 +5289,13 @@
        width="36.651184"
        height="13.030777"
        x="875.43707"
-       y="280.09332"
+       y="285.14407"
        ry="1.3310297" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot8070"
        style="font-style:normal;font-weight:normal;font-size:8.32256985px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
-       transform="translate(-2095.387,-665.41067)"><flowRegion
+       transform="translate(-2095.387,-660.35991)"><flowRegion
          id="flowRegion8072"><rect
            style="fill:#808080"
            id="rect8074"
@@ -5307,7 +5307,7 @@
        xml:space="preserve"
        id="flowRoot8078"
        style="font-style:normal;font-weight:normal;font-size:9.08303833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="translate(-1560.4648,-843.62316)"><flowRegion
+       transform="translate(-1560.4648,-835.05173)"><flowRegion
          id="flowRegion8080"><rect
            id="rect8082"
            width="238.88507"
@@ -5329,7 +5329,7 @@
        style="font-style:normal;font-weight:normal;font-size:6.77336168px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot8094"
        xml:space="preserve"
-       transform="translate(-2095.387,-665.41067)"><flowRegion
+       transform="translate(-2095.387,-660.35991)"><flowRegion
          id="flowRegion8096"><rect
            y="948.76453"
            x="3014.3179"
@@ -5337,7 +5337,7 @@
            width="104.26139"
            id="rect8098" /></flowRegion><flowPara
          id="flowPara8100">Dalle</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.87232476,0,0,0.87232476,-661.77303,-657.05303)"
+       transform="matrix(0.87232476,0,0,0.87232476,-661.77303,-652.00227)"
        xml:space="preserve"
        id="flowRoot8102"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -5349,7 +5349,7 @@
            y="1078.0468" /></flowRegion><flowPara
          id="flowPara8108">Alle</flowPara></flowRoot>    <rect
        ry="1.3310297"
-       y="280.09332"
+       y="285.14407"
        x="939.32281"
        height="13.030777"
        width="36.651184"
@@ -5359,7 +5359,7 @@
        style="font-style:normal;font-weight:normal;font-size:19.2105732px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
        id="flowRoot8112"
        xml:space="preserve"
-       transform="matrix(0.43322858,0,0,0.43322858,-563.74363,1442.8368)"><flowRegion
+       transform="matrix(0.43322858,0,0,0.43322858,-563.74363,1447.8876)"><flowRegion
          id="flowRegion8114"><rect
            y="-2680.3984"
            x="3478.9204"
@@ -5373,10 +5373,10 @@
        width="36.651184"
        height="13.030777"
        x="1003.649"
-       y="280.09332"
+       y="285.14407"
        ry="1.3310297" />
     <flowRoot
-       transform="matrix(0.43322858,0,0,0.43322858,-499.41733,1442.8368)"
+       transform="matrix(0.43322858,0,0,0.43322858,-499.41733,1447.8876)"
        xml:space="preserve"
        id="flowRoot8122"
        style="font-style:normal;font-weight:normal;font-size:19.2105732px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"><flowRegion
@@ -5389,14 +5389,14 @@
            y="-2680.3984" /></flowRegion><flowPara
          id="flowPara8128">13:00</flowPara></flowRoot>    <rect
        ry="1.3310297"
-       y="280.09332"
+       y="285.14407"
        x="1123.2955"
        height="14.793152"
        width="60.689972"
        id="rect8130"
        style="fill:#ffd5d5;fill-opacity:1;stroke:#000000;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
-       transform="matrix(0.54796687,0,0,0.54796687,-67.714326,-596.75081)"
+       transform="matrix(0.54796687,0,0,0.54796687,-67.714326,-591.70005)"
        style="font-style:normal;font-weight:normal;font-size:9.54067802px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
        id="flowRoot8132"
        xml:space="preserve"><flowRegion
@@ -5417,7 +5417,7 @@
     <path
        inkscape:transform-center-y="0.93722279"
        inkscape:transform-center-x="0.00023100248"
-       d="m 911.17415,284.44471 -1.62342,2.81185 -1.62342,2.81185 -1.62343,-2.81185 -1.62342,-2.81185 3.24685,0 z"
+       d="m 911.17415,289.49546 -1.62342,2.81185 -1.62342,2.81185 -1.62343,-2.81185 -1.62342,-2.81185 3.24685,0 z"
        inkscape:randomized="0"
        inkscape:rounded="0"
        inkscape:flatsided="false"
@@ -5425,23 +5425,12 @@
        sodipodi:arg1="-0.52359878"
        sodipodi:r2="1.8745668"
        sodipodi:r1="3.7491333"
-       sodipodi:cy="286.31927"
-       sodipodi:cx="907.92728"
+       sodipodi:cy="291.37004"
+       sodipodi:cx="907.92731"
        sodipodi:sides="3"
        id="path8144"
        style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:type="star" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text8146"
-       y="252.83194"
-       x="1108.548"
-       style="font-style:normal;font-weight:normal;font-size:5.16237164px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="252.83194"
-         x="1108.548"
-         sodipodi:role="line"
-         id="tspan8148">show If (state @ QUEUE = L)</tspan></text>
     <flowRoot
        transform="matrix(0.83984016,0,0,0.83984016,1156.2894,184.85733)"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -5585,7 +5574,7 @@
            height="33.00008"
            x="-0.75797081"
            y="-2.3836417" /></flowRegion><flowPara
-         id="flowPara8232">Secondo calendario</flowPara></flowRoot>    <flowRoot
+         id="flowPara8232">Secondo il calendario</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot8234"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -5851,17 +5840,6 @@
        style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:type="star" />
     <text
-       sodipodi:linespacing="125%"
-       id="text8410"
-       y="143.06223"
-       x="1174.7354"
-       style="font-style:normal;font-weight:normal;font-size:7.99405479px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="143.06223"
-         x="1174.7354"
-         sodipodi:role="line"
-         id="tspan8412">show IF (QUEUES==1) AND (state @ QUEUE_A = L)</tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.86932611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
        x="920.60651"
@@ -5890,18 +5868,22 @@
          id="tspan8426"
          sodipodi:role="line"
          x="920.55548"
-         y="47.675411">PATCH state @QUEUE_A ('O' or 'L')</tspan></text>
+         y="47.675411">PATCH use_calendar_now_online @QUEUE_A (true/false)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8428"
-       y="48.043514"
+       y="40.186371"
        x="852.79523"
        style="font-style:normal;font-weight:normal;font-size:4.8016386px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="48.043514"
+         y="40.186371"
          x="852.79523"
          sodipodi:role="line"
-         id="tspan8430">open_online @ firm</tspan></text>
+         id="tspan8430">PATCH</tspan><tspan
+         y="46.188419"
+         x="852.79523"
+         sodipodi:role="line"
+         id="tspan7469">open_online @ firm</tspan></text>
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.96079499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect8432"
@@ -6336,7 +6318,7 @@
          y="42.566952"
          x="920.10748"
          sodipodi:role="line"
-         id="tspan6733-3-5-6-6">GRIGIO IF open_online @ FIRM == True</tspan></text>
+         id="tspan6733-3-5-6-6">GRIGIO IF open_online @ FIRM == false</tspan></text>
     <rect
        ry="1.23062"
        y="1590.553"
@@ -6630,7 +6612,7 @@
            height="33.00008"
            x="-0.75797081"
            y="-2.3836417" /></flowRegion><flowPara
-         id="flowPara9038">Secondo calendario</flowPara></flowRoot>    <flowRoot
+         id="flowPara9038">Secondo il calendario</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9040"
        style="font-style:normal;font-weight:normal;font-size:6.5211277px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -8316,7 +8298,7 @@
            height="33.00008"
            x="-0.75797081"
            y="-2.3836417" /></flowRegion><flowPara
-         id="flowPara10729">Secondo calendario</flowPara></flowRoot>    <flowRoot
+         id="flowPara10729">Secondo il calendario</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10731"
        style="font-style:normal;font-weight:normal;font-size:6.5211277px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -10091,7 +10073,7 @@
            height="33.00008"
            width="119.5213"
            id="rect11501" /></flowRegion><flowPara
-         id="flowPara11503">Secondo calendario</flowPara></flowRoot>    <flowRoot
+         id="flowPara11503">Secondo il calendario</flowPara></flowRoot>    <flowRoot
        transform="translate(-4329.3365,1463.2105)"
        style="font-style:normal;font-weight:normal;font-size:6.5211277px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot11505"
@@ -11778,7 +11760,7 @@
            height="33.00008"
            width="119.5213"
            id="rect12175" /></flowRegion><flowPara
-         id="flowPara12177">Secondo calendario</flowPara></flowRoot>    <flowRoot
+         id="flowPara12177">Secondo il calendario</flowPara></flowRoot>    <flowRoot
        transform="translate(-4329.3365,1274.6462)"
        style="font-style:normal;font-weight:normal;font-size:6.5211277px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot12179"
@@ -13366,7 +13348,7 @@
          y="700.10358"
          x="1246.4709"
          sodipodi:role="line"
-         id="tspan12887">GRIGIO IF (firm.open_online == true) </tspan></text>
+         id="tspan12887">GRIGIO IF (firm.open_printer == false) </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot12889"
@@ -13425,38 +13407,7 @@
        x="873.28131"
        y="630.35223"
        ry="1.0735003" />
-    <rect
-       ry="1.3310297"
-       y="662.94122"
-       x="875.43707"
-       height="13.030777"
-       width="36.651184"
-       id="rect12921"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <flowRoot
-       transform="translate(-2095.387,-282.56281)"
-       style="font-style:normal;font-weight:normal;font-size:8.32256985px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
-       id="flowRoot12923"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12925"><rect
-           y="947.02222"
-           x="2971.769"
-           height="35.061504"
-           width="176.38214"
-           id="rect12927"
-           style="fill:#808080" /></flowRegion><flowPara
-         id="flowPara12929">Lunedì</flowPara></flowRoot>    <flowRoot
-       transform="translate(-1560.4648,-460.77531)"
-       style="font-style:normal;font-weight:normal;font-size:9.08303833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot12931"
-       xml:space="preserve"><flowRegion
-         id="flowRegion12933"><rect
-           y="1098.0662"
-           x="2436.4355"
-           height="37.356712"
-           width="238.88507"
-           id="rect12935" /></flowRegion><flowPara
-         id="flowPara12937">Orario emissione biglietti da totem C dott. Bianchi</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot12939"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
@@ -13467,123 +13418,12 @@
            height="33.00008"
            x="-0.75797081"
            y="-2.3836417" /></flowRegion><flowPara
-         id="flowPara12945">C - Dott. Bianchi</flowPara></flowRoot>    <flowRoot
-       transform="translate(-2095.387,-282.56281)"
-       xml:space="preserve"
-       id="flowRoot12947"
-       style="font-style:normal;font-weight:normal;font-size:6.77336168px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion12949"><rect
-           id="rect12951"
-           width="104.26139"
-           height="28.786787"
-           x="3014.3179"
-           y="948.76453" /></flowRegion><flowPara
-         id="flowPara12953">Dalle</flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       id="flowRoot12955"
-       xml:space="preserve"
-       transform="matrix(0.87232476,0,0,0.87232476,-661.77303,-274.20517)"><flowRegion
-         id="flowRegion12957"><rect
-           y="1078.0468"
-           x="1883.2747"
-           height="33.00008"
-           width="119.5213"
-           id="rect12959" /></flowRegion><flowPara
-         id="flowPara12961">Alle</flowPara></flowRoot>    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect12963"
-       width="36.651184"
-       height="13.030777"
-       x="939.32281"
-       y="662.94122"
-       ry="1.3310297" />
-    <flowRoot
-       transform="matrix(0.43322858,0,0,0.43322858,-563.74363,1825.6847)"
-       xml:space="preserve"
-       id="flowRoot12965"
-       style="font-style:normal;font-weight:normal;font-size:19.2105732px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"><flowRegion
-         id="flowRegion12967"><rect
-           style="fill:#808080"
-           id="rect12969"
-           width="407.13412"
-           height="80.930733"
-           x="3478.9204"
-           y="-2680.3984" /></flowRegion><flowPara
-         id="flowPara12971">09:00</flowPara></flowRoot>    <rect
-       ry="1.3310297"
-       y="662.94122"
-       x="1003.649"
-       height="13.030777"
-       width="36.651184"
-       id="rect12973"
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:19.2105732px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
-       id="flowRoot12975"
-       xml:space="preserve"
-       transform="matrix(0.43322858,0,0,0.43322858,-499.41733,1825.6847)"><flowRegion
-         id="flowRegion12977"><rect
-           y="-2680.3984"
-           x="3478.9204"
-           height="80.930733"
-           width="407.13412"
-           id="rect12979"
-           style="fill:#808080" /></flowRegion><flowPara
-         id="flowPara12981">13:00</flowPara></flowRoot>    <rect
-       style="fill:#ffd5d5;fill-opacity:1;stroke:#000000;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect12983"
-       width="60.689972"
-       height="14.793152"
-       x="1123.2955"
-       y="662.94122"
-       ry="1.3310297" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot12985"
-       style="font-style:normal;font-weight:normal;font-size:9.54067802px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
-       transform="matrix(0.54796687,0,0,0.54796687,-67.714326,-213.90294)"><flowRegion
-         id="flowRegion12987"><rect
-           style="fill:#808080"
-           id="rect12989"
-           width="202.1978"
-           height="40.19318"
-           x="2181.0637"
-           y="1601.0494" /></flowRegion><flowPara
-         id="flowPara12991">Aggiungi / rimuovi / </flowPara><flowPara
-         id="flowPara12993">Salva modifiche</flowPara></flowRoot>    <path
+         id="flowPara12945">C - Dott. Bianchi</flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.87232476px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 865.04745,684.81242 0,-53.2865"
        id="path12995"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:type="star"
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="path12997"
-       sodipodi:sides="3"
-       sodipodi:cx="907.92728"
-       sodipodi:cy="669.16718"
-       sodipodi:r1="3.7491333"
-       sodipodi:r2="1.8745668"
-       sodipodi:arg1="-0.52359878"
-       sodipodi:arg2="0.52359878"
-       inkscape:flatsided="false"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 911.17415,667.29261 -1.62342,2.81185 -1.62342,2.81185 -1.62343,-2.81185 -1.62342,-2.81185 3.24685,0 z"
-       inkscape:transform-center-x="0.00023100248"
-       inkscape:transform-center-y="0.93722279" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.16237164px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
-       x="1108.548"
-       y="635.67987"
-       id="text12999"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan13001"
-         sodipodi:role="line"
-         x="1108.548"
-         y="635.67987">show If (state @ QUEUE = L)</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot13003"
@@ -13727,7 +13567,7 @@
            height="33.00008"
            width="119.5213"
            id="rect13079" /></flowRegion><flowPara
-         id="flowPara13081">Secondo calendario</flowPara></flowRoot>    <flowRoot
+         id="flowPara13081">Secondo il calendario</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.83984016,0,0,0.83984016,1156.2894,612.15202)"
        style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot13083"
@@ -13995,14 +13835,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.99405479px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
-       x="1174.7354"
+       x="1084.8318"
        y="525.9101"
        id="text13217"
        sodipodi:linespacing="125%"><tspan
          id="tspan13219"
          sodipodi:role="line"
-         x="1174.7354"
-         y="525.9101">show IF (QUEUES==1) AND (state @ QUEUE_A = L)</tspan></text>
+         x="1084.8318"
+         y="525.9101">show IF (QUEUES==1) AND (use_calendar_now_printer @QUEUE_A == true)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text13221"
@@ -14032,18 +13872,7 @@
          y="430.52325"
          x="920.55548"
          sodipodi:role="line"
-         id="tspan13229">PATCH state @QUEUE_A (O,C,L)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.8016386px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
-       x="852.79523"
-       y="430.89142"
-       id="text13231"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan13233"
-         sodipodi:role="line"
-         x="852.79523"
-         y="430.89142">open_online @ firm</tspan></text>
+         id="tspan13229">PATCH use_calendar_now_printer @QUEUE_A (true/false)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.88917494px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
@@ -14054,7 +13883,7 @@
          id="tspan13237"
          sodipodi:role="line"
          x="920.10748"
-         y="425.41486">GRIGIO IF open_online @ FIRM == True</tspan></text>
+         y="425.41486">GRIGIO IF open_printer @ FIRM == false</tspan></text>
     <rect
        style="fill:#f2f2f2;stroke:#000000;stroke-width:0.67687076"
        id="rect11517"
@@ -14092,5 +13921,415 @@
          sodipodi:role="line"
          x="1322.418"
          y="368.02097">SHOW IF printers &gt; 0</tspan></text>
+    <flowRoot
+       inkscape:export-ydpi="200.01234"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       transform="matrix(0.83984016,0,0,0.83984016,2187.9579,1227.3936)"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;"
+       id="flowRoot7326"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7328"><rect
+           y="-2.3836417"
+           x="-0.75797081"
+           height="33.00008"
+           width="119.5213"
+           id="rect7330"
+           style="fill:#b3b3b3;" /></flowRegion><flowPara
+         id="flowPara7332">Usa calendario </flowPara><flowPara
+         id="flowPara7334">automatico</flowPara></flowRoot>    <g
+       inkscape:export-ydpi="200.01234"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       transform="translate(-375.75829,73.1491)"
+       id="g7336"
+       style="stroke:#808080">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7338"
+         width="13.436834"
+         height="13.030762"
+         x="2546.5725"
+         y="1155.0575"
+         ry="1.3310298" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7340"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       transform="matrix(0.83984016,0,0,0.83984016,2187.9579,1792.0689)"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-ydpi="200.01234"><flowRegion
+         id="flowRegion7342"><rect
+           style="fill:#b3b3b3"
+           id="rect7344"
+           width="119.5213"
+           height="33.00008"
+           x="-0.75797081"
+           y="-2.3836417" /></flowRegion><flowPara
+         id="flowPara7346">Usa calendario </flowPara><flowPara
+         id="flowPara7348">automatico</flowPara></flowRoot>    <g
+       style="stroke:#808080"
+       id="g7350"
+       transform="translate(-375.75829,637.82444)"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-ydpi="200.01234">
+      <rect
+         ry="1.3310298"
+         y="1155.0575"
+         x="2546.5725"
+         height="13.030762"
+         width="13.436834"
+         id="rect7352"
+         style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="200.01234"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       transform="matrix(0.83984016,0,0,0.83984016,2187.9579,2328.46)"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="flowRoot7354"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7356"><rect
+           y="-2.3836417"
+           x="-0.75797081"
+           height="33.00008"
+           width="119.5213"
+           id="rect7358"
+           style="fill:#b3b3b3" /></flowRegion><flowPara
+         id="flowPara7360">Usa calendario </flowPara><flowPara
+         id="flowPara7362">automatico</flowPara></flowRoot>    <g
+       inkscape:export-ydpi="200.01234"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       transform="translate(-375.75829,1174.2155)"
+       id="g7364"
+       style="stroke:#808080">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7366"
+         width="13.436834"
+         height="13.030762"
+         x="2546.5725"
+         y="1155.0575"
+         ry="1.3310298" />
+    </g>
+    <flowRoot
+       inkscape:export-ydpi="200.01234"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       transform="matrix(0.83984016,0,0,0.83984016,1156.424,590.26199)"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       id="flowRoot7326-9"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7328-7"><rect
+           y="-2.3836417"
+           x="-0.75797081"
+           height="33.00008"
+           width="119.5213"
+           id="rect7330-5"
+           style="fill:#b3b3b3" /></flowRegion><flowPara
+         id="flowPara7332-4">Usa calendario </flowPara><flowPara
+         id="flowPara7334-9">automatico</flowPara></flowRoot>    <g
+       inkscape:export-ydpi="200.01234"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       transform="translate(-1407.2921,-563.98251)"
+       id="g7336-0"
+       style="stroke:#808080">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7338-7"
+         width="13.436834"
+         height="13.030762"
+         x="2546.5725"
+         y="1155.0575"
+         ry="1.3310298" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7401"
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none"
+       transform="matrix(0.83984016,0,0,0.83984016,1156.424,208.11909)"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-ydpi="200.01234"><flowRegion
+         id="flowRegion7403"><rect
+           style="fill:#b3b3b3"
+           id="rect7405"
+           width="119.5213"
+           height="33.00008"
+           x="-0.75797081"
+           y="-2.3836417" /></flowRegion><flowPara
+         id="flowPara7407">Usa calendario </flowPara><flowPara
+         id="flowPara7409">automatico</flowPara></flowRoot>    <g
+       style="stroke:#808080"
+       id="g7411"
+       transform="translate(-1407.2921,-946.12541)"
+       inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\flowRoot11519.png"
+       inkscape:export-xdpi="200.01234"
+       inkscape:export-ydpi="200.01234">
+      <rect
+         ry="1.3310298"
+         y="1155.0575"
+         x="2546.5725"
+         height="13.030762"
+         width="13.436834"
+         id="rect7413"
+         style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7415"
+       y="141.62434"
+       x="1084.8318"
+       style="font-style:normal;font-weight:normal;font-size:7.99405479px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="141.62434"
+         x="1084.8318"
+         sodipodi:role="line"
+         id="tspan7417">show IF (QUEUES==1) AND (use_calendar_now_online @QUEUE_A == true)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.16237164px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       x="1034.2623"
+       y="636.76056"
+       id="text7419"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7421"
+         sodipodi:role="line"
+         x="1034.2623"
+         y="636.76056">show IF (use_calendar_now_printer @QUEUE_C == true)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.99405479px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       x="1083.5765"
+       y="152.45454"
+       id="text8030-0"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan8032-8"
+         sodipodi:role="line"
+         x="1083.5765"
+         y="152.45454">GRIGIO IF (firm.open_online == false) </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7441"
+       y="643.90344"
+       x="1034.2623"
+       style="font-style:normal;font-weight:normal;font-size:5.16237164px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="643.90344"
+         x="1034.2623"
+         sodipodi:role="line"
+         id="tspan7443">GRIGIO IF (open_printer @QUEUE_C == true)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.16237164px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       x="1032.5995"
+       y="253.72894"
+       id="text7419-1"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7421-9"
+         sodipodi:role="line"
+         x="1032.5995"
+         y="253.72894">show IF (use_calendar_now_online @QUEUE_C == true)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7441-4"
+       y="260.87177"
+       x="1032.5995"
+       style="font-style:normal;font-weight:normal;font-size:5.16237164px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="260.87177"
+         x="1032.5995"
+         sodipodi:role="line"
+         id="tspan7443-0">GRIGIO IF (open_online @QUEUE_C == true)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8428-6"
+       y="425.04456"
+       x="853.87158"
+       style="font-style:normal;font-weight:normal;font-size:4.8016386px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="425.04456"
+         x="853.87158"
+         sodipodi:role="line"
+         id="tspan8430-8">PATCH</tspan><tspan
+         y="431.0466"
+         x="853.87158"
+         sodipodi:role="line"
+         id="tspan7469-1">open_printer @ firm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.86932611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       x="1021.7197"
+       y="279.66391"
+       id="text8414-4"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan8416-4"
+         sodipodi:role="line"
+         x="1021.7197"
+         y="279.66391">show IF (queues &gt; 1)</tspan></text>
+    <rect
+       ry="2.1625478"
+       y="265.33963"
+       x="1021.6628"
+       height="9.822587"
+       width="68.791557"
+       id="rect8418-3"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1.00724149;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:3.02172451, 3.02172451;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="1.3310297"
+       y="666.57269"
+       x="875.43707"
+       height="13.030777"
+       width="36.651184"
+       id="rect7513"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="translate(-2095.387,-278.9313)"
+       style="font-style:normal;font-weight:normal;font-size:8.32256985px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       id="flowRoot7515"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7517"><rect
+           y="947.02222"
+           x="2971.769"
+           height="35.061504"
+           width="176.38214"
+           id="rect7519"
+           style="fill:#808080" /></flowRegion><flowPara
+         id="flowPara7521">Lunedì</flowPara></flowRoot>    <flowRoot
+       transform="translate(-1560.4648,-453.62312)"
+       style="font-style:normal;font-weight:normal;font-size:9.08303833px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot7523"
+       xml:space="preserve"><flowRegion
+         id="flowRegion7525"><rect
+           y="1098.0662"
+           x="2436.4355"
+           height="37.356712"
+           width="238.88507"
+           id="rect7527" /></flowRegion><flowPara
+         id="flowPara7529">Orario emissione biglietti da totem C dott. Bianchi</flowPara></flowRoot>    <flowRoot
+       transform="translate(-2095.387,-278.9313)"
+       xml:space="preserve"
+       id="flowRoot7531"
+       style="font-style:normal;font-weight:normal;font-size:6.77336168px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion7533"><rect
+           id="rect7535"
+           width="104.26139"
+           height="28.786787"
+           x="3014.3179"
+           y="948.76453" /></flowRegion><flowPara
+         id="flowPara7537">Dalle</flowPara></flowRoot>    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:7.76472473px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot7539"
+       xml:space="preserve"
+       transform="matrix(0.87232476,0,0,0.87232476,-661.77303,-270.57366)"><flowRegion
+         id="flowRegion7541"><rect
+           y="1078.0468"
+           x="1883.2747"
+           height="33.00008"
+           width="119.5213"
+           id="rect7543" /></flowRegion><flowPara
+         id="flowPara7545">Alle</flowPara></flowRoot>    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7547"
+       width="36.651184"
+       height="13.030777"
+       x="939.32281"
+       y="666.57269"
+       ry="1.3310297" />
+    <flowRoot
+       transform="matrix(0.43322858,0,0,0.43322858,-563.74363,1829.3162)"
+       xml:space="preserve"
+       id="flowRoot7549"
+       style="font-style:normal;font-weight:normal;font-size:19.2105732px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion7551"><rect
+           style="fill:#808080"
+           id="rect7553"
+           width="407.13412"
+           height="80.930733"
+           x="3478.9204"
+           y="-2680.3984" /></flowRegion><flowPara
+         id="flowPara7555">09:00</flowPara></flowRoot>    <rect
+       ry="1.3310297"
+       y="666.57269"
+       x="1003.649"
+       height="13.030777"
+       width="36.651184"
+       id="rect7557"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       style="font-style:normal;font-weight:normal;font-size:19.2105732px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       id="flowRoot7559"
+       xml:space="preserve"
+       transform="matrix(0.43322858,0,0,0.43322858,-499.41733,1829.3162)"><flowRegion
+         id="flowRegion7561"><rect
+           y="-2680.3984"
+           x="3478.9204"
+           height="80.930733"
+           width="407.13412"
+           id="rect7563"
+           style="fill:#808080" /></flowRegion><flowPara
+         id="flowPara7565">13:00</flowPara></flowRoot>    <rect
+       style="fill:#ffd5d5;fill-opacity:1;stroke:#000000;stroke-width:0.83812523;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7567"
+       width="60.689972"
+       height="14.793152"
+       x="1123.2955"
+       y="666.57269"
+       ry="1.3310297" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7569"
+       style="font-style:normal;font-weight:normal;font-size:9.54067802px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none"
+       transform="matrix(0.54796687,0,0,0.54796687,-67.714326,-210.27144)"><flowRegion
+         id="flowRegion7571"><rect
+           style="fill:#808080"
+           id="rect7573"
+           width="202.1978"
+           height="40.19318"
+           x="2181.0637"
+           y="1601.0494" /></flowRegion><flowPara
+         id="flowPara7575">Aggiungi / rimuovi / </flowPara><flowPara
+         id="flowPara7577">Salva modifiche</flowPara></flowRoot>    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path7579"
+       sodipodi:sides="3"
+       sodipodi:cx="907.92731"
+       sodipodi:cy="672.79864"
+       sodipodi:r1="3.7491333"
+       sodipodi:r2="1.8745668"
+       sodipodi:arg1="-0.52359878"
+       sodipodi:arg2="0.52359878"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 911.17415,670.92408 -1.62342,2.81185 -1.62342,2.81185 -1.62343,-2.81185 -1.62342,-2.81185 3.24685,0 z"
+       inkscape:transform-center-x="0.00023100248"
+       inkscape:transform-center-y="0.93722279" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text7581"
+       y="661.09253"
+       x="1036.3625"
+       style="font-style:normal;font-weight:normal;font-size:4.86932611px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="661.09253"
+         x="1036.3625"
+         sodipodi:role="line"
+         id="tspan7583">show IF (queues &gt; 1)</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1.00724149;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:3.02172451, 3.02172451;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7585"
+       width="68.791557"
+       height="9.822587"
+       x="1036.3057"
+       y="646.76825"
+       ry="2.1625478" />
   </g>
 </svg>
