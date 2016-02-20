@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="user_rev04.svg"
-   inkscape:export-filename="F:\Antonello\Dropbox\Shared folders\qathome-docs\Storyboard web client\user_rev03.png"
+   inkscape:export-filename="G:\Dropbox\Shared folders\qathome-docs\Storyboard web client\user_rev04.png"
    inkscape:export-xdpi="99.789093"
    inkscape:export-ydpi="99.789093">
   <defs
@@ -278,7 +278,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="1364.7659"
+     inkscape:cx="1000.7659"
      inkscape:cy="1576.9136"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -301,7 +301,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
